@@ -4,4 +4,4 @@ It consisted on making a pricing panel with different styling methods of CSS.
 
 Link to the course for more information: https://www.udemy.com/course/the-web-developer-bootcamp/
 
-✅  https://joaquinbembhy.github.io/PricingPanel-CSS/ ✅ 
+✅ *Final project* https://joaquinbembhy.github.io/PricingPanel-CSS/ ✅ 
